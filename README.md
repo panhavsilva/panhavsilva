@@ -1,7 +1,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá!! Eu sou a Pâmela da Silva</h2>
 
 Bem-vindo a minha página! 👋
-- 🔭 Hoje trabalho como encarregada de frota
+- 🔭 Hoje trabalho como Analista de Sistemas Jr
 - 🌱 Estudando JavaScript, TypeScript e ReactJS
 - 😄 Pronomes: ela/dela
 
